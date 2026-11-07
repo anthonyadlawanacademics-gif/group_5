@@ -7,7 +7,7 @@ int main() {
     cout << "Hello, Kish," << endl;
     cout << "Hello, Maica," << endl;
     cout << "Hello, Kert," << endl;
-    cout << "Hello, Jael,Manceras" << endl;
+    cout << "Hello, Jael,Manceras kekeke" << endl;
 
 
     return 0;
