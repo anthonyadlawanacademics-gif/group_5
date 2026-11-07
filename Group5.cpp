@@ -8,6 +8,8 @@ int main() {
     cout << "Hello, Maica," << endl;
     cout << "Hello, Kert, Marvin Capul " << endl;
     cout << "Hello, Adlawan bati nawng, " << endl;
+    cout << "Adlawan, gwapo kaayo, " << endl;
+    cout << "Sorry, na bro labyouuu" << endl;
     cout << "Hello, Jael," << endl;
 
     return 0;
